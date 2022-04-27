@@ -1,0 +1,280 @@
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojResolveAssemblyReference.cache
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.Cache
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.dll
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.dll
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.dll
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojResolveAssemblyReference.cache
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.Sofware de conversão - PCP.exe.config
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.Cache
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojResolveAssemblyReference.cache
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+D:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.Cache
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RegistroCalculo.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.dll
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.dll
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.Sofware de conversão - PCP.exe.config
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+I:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RegistroCalculo.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RecuperaCaps.resources
+E:\TCC\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.recuperaUser.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.dll
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.dll
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojResolveAssemblyReference.cache
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.Sofware de conversão - PCP.exe.config
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RecuperaCaps.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.recuperaUser.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.Cache
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+E:\TCC1\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.dll
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.dll
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojResolveAssemblyReference.cache
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.Sofware de conversão - PCP.exe.config
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RecuperaCaps.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.recuperaUser.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.Cache
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+E:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.dll
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.dll
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojResolveAssemblyReference.cache
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.Sofware de conversão - PCP.exe.config
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RecuperaCaps.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.recuperaUser.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.Cache
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+D:\TCC Versao Final\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.dll
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.dll
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojAssemblyReference.cache
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe.config
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RecuperaCaps.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.recuperaUser.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.cache
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CopyComplete
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+D:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojResolveAssemblyReference.cache
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RecuperaCaps.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.recuperaUser.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.Cache
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+E:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csprojResolveAssemblyReference.cache
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RecuperaCaps.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.recuperaUser.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.Cache
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+G:\tcc pronto\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe.config
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.exe
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Sofware de conversão - PCP.pdb
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Web.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.AssemblyReference.cache
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.SuggestedBindingRedirects.cache
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Caps.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cad_Usuario.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.cal_Caps.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.RecuperaCaps.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipalII.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.menuPrincipal.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.recuperaUser.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Splash.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Login_User.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware_de_conversão___PCP.Properties.Resources.resources
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.GenerateResource.cache
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CoreCompileInputs.cache
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.csproj.CopyComplete
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.exe
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\obj\Debug\Sofware de conversão - PCP.pdb
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\MySql.Data.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Buffers.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Memory.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Numerics.Vectors.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\ZstdNet.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.pdb
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\Google.Protobuf.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\K4os.Compression.LZ4.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\K4os.Hash.xxHash.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Buffers.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Memory.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Numerics.Vectors.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Security.AccessControl.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Security.Permissions.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Security.AccessControl.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Security.Permissions.xml
+C:\Sofware de conversão - PCP\Sofware de conversão - PCP\Sofware de conversão - PCP\bin\Debug\System.Security.Principal.Windows.xml
